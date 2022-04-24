@@ -46,8 +46,11 @@ Voila! The game begins!
 
 ## Usage 
 
+Use inquirer from your command line to answer questions about your project.
 
+https://user-images.githubusercontent.com/97390473/164956029-90c7d2b4-caf8-43e5-a94a-2119348c21d3.mp4
 
+or go to <a href="https://drive.google.com/file/d/1lFE8VDRPTNMjPuLVmq0y6xmT3tqa6pbh/view">Word Guess CL Video </a>
 
 ## Credits
 
@@ -69,6 +72,8 @@ The last section of a good README is a license. This lets other developers know 
 
 Inquirer.js - https://www.npmjs.com/package/inquirer
 Node - https://www.npmjs.com/package/node
+
+
 
 
 
